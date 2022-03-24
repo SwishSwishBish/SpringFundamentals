@@ -1,0 +1,6 @@
+# Project exclude paths
+/Elasticsearch/target/
+/HelloWorld/target/
+/MongoRestAPI/target/
+/PostgreSQL-JPA/target/
+/SwaggerDocumentation/target/

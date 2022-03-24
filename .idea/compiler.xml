@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Elasticsearch" />
+        <module name="SwaggerDocumentation" />
+        <module name="MongoRestAPI" />
+        <module name="PostgreSQL-JPA" />
+        <module name="HelloWorld" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01.HelloWorld" target="17" />
+      <module name="02.SpringMongoRestAPI" target="17" />
+      <module name="03.Elasticsearch" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="01.HelloWorld" options="-parameters" />
+      <module name="02.SpringMongoRestAPI" options="-parameters" />
+      <module name="Elasticsearch" options="-parameters" />
+      <module name="HelloWorld" options="-parameters" />
+      <module name="MongoRestAPI" options="-parameters" />
+      <module name="PostgreSQL-JPA" options="-parameters" />
+      <module name="SwaggerDocumentation" options="-parameters" />
+    </option>
+  </component>
+</project>
