@@ -1,6 +1,6 @@
 You can use these for problems with some versions of Swagger.
 >
->@EnableWebMvc annotation
+>@EnableWebMvc //annotation
 
 >for application.properties:
 >```
