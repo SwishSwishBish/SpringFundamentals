@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="RabbitMQ" />
         <module name="Elasticsearch" />
         <module name="SwaggerDocumentation" />
         <module name="MongoRestAPI" />
@@ -18,6 +19,10 @@
       <module name="01.HelloWorld" target="17" />
       <module name="02.SpringMongoRestAPI" target="17" />
       <module name="03.Elasticsearch" target="13" />
+      <module name="DependencyInjection" target="1.8" />
+      <module name="Elasticsearch-QueryDSL" target="1.8" />
+      <module name="ElasticsearchQueryDSL" target="17" />
+      <module name="SpringIoC" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -25,9 +30,12 @@
       <module name="01.HelloWorld" options="-parameters" />
       <module name="02.SpringMongoRestAPI" options="-parameters" />
       <module name="Elasticsearch" options="-parameters" />
+      <module name="Elasticsearch-QueryDSL" options="-parameters" />
+      <module name="ElasticsearchQueryDSL" options="-parameters" />
       <module name="HelloWorld" options="-parameters" />
       <module name="MongoRestAPI" options="-parameters" />
       <module name="PostgreSQL-JPA" options="-parameters" />
+      <module name="RabbitMQ" options="-parameters" />
       <module name="SwaggerDocumentation" options="-parameters" />
     </option>
   </component>

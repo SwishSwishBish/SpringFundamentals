@@ -14,6 +14,7 @@
         <module>Elasticsearch</module>
         <module>PostgreSQL-JPA</module>
         <module>SwaggerDocumentation</module>
+
     </modules>
 
     <properties>
@@ -37,4 +38,5 @@
             </plugin>
         </plugins>
     </build>
+
 </project>
