@@ -9,8 +9,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="RabbitMQ" />
         <module name="Elasticsearch" />
-        <module name="SwaggerDocumentation" />
         <module name="MongoRestAPI" />
+        <module name="SwaggerDocumentation" />
+        <module name="Dockerization" />
         <module name="PostgreSQL-JPA" />
         <module name="HelloWorld" />
       </profile>
@@ -20,6 +21,7 @@
       <module name="02.SpringMongoRestAPI" target="17" />
       <module name="03.Elasticsearch" target="13" />
       <module name="DependencyInjection" target="1.8" />
+      <module name="Dockerizationcop" target="13" />
       <module name="Elasticsearch-QueryDSL" target="1.8" />
       <module name="ElasticsearchQueryDSL" target="17" />
       <module name="SpringIoC" target="1.8" />
@@ -29,6 +31,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="01.HelloWorld" options="-parameters" />
       <module name="02.SpringMongoRestAPI" options="-parameters" />
+      <module name="Dockerization" options="-parameters" />
+      <module name="Dockerizationcop" options="" />
       <module name="Elasticsearch" options="-parameters" />
       <module name="Elasticsearch-QueryDSL" options="-parameters" />
       <module name="ElasticsearchQueryDSL" options="-parameters" />

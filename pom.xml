@@ -15,6 +15,7 @@
         <module>PostgreSQL-JPA</module>
         <module>SwaggerDocumentation</module>
         <module>RabbitMQ</module>
+        <module>Dockerization</module>
 
     </modules>
 
