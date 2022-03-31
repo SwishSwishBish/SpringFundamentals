@@ -14,6 +14,7 @@
         <module>Elasticsearch</module>
         <module>PostgreSQL-JPA</module>
         <module>SwaggerDocumentation</module>
+        <module>RabbitMQ</module>
 
     </modules>
 
