@@ -8,7 +8,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="RabbitMQ" />
-        <module name="AOP" />
         <module name="Elasticsearch" />
         <module name="MongoRestAPI" />
         <module name="SwaggerDocumentation" />
@@ -22,6 +21,7 @@
       <module name="02.SpringMongoRestAPI" target="17" />
       <module name="03.Elasticsearch" target="13" />
       <module name="adadad" target="13" />
+      <module name="AOP" target="13" />
       <module name="DependencyInjection" target="1.8" />
       <module name="Dockerizationcop" target="13" />
       <module name="Elasticsearch-QueryDSL" target="1.8" />
