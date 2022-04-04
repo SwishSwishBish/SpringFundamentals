@@ -32,3 +32,7 @@ application.properties
 ```
 #spring.aop.auto = false
 ```
+Application annotation
+```
+@EnableAspectJAutoProxy(proxyTargetClass = true)
+```
