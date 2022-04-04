@@ -34,7 +34,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="01.HelloWorld" options="-parameters" />
       <module name="02.SpringMongoRestAPI" options="-parameters" />
-      <module name="AOP" options="-parameters" />
+      <module name="AOP" options="" />
       <module name="Dockerization" options="-parameters" />
       <module name="Dockerizationcop" options="" />
       <module name="Elasticsearch" options="-parameters" />
