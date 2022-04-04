@@ -1,4 +1,4 @@
-##dockerfile
+dockerfile
 >**FROM** The base image for building a new image. This command must be on top of the dockerfile. 
 > 
 >**MAINTAINER** Optional, it contains the name of the maintainer of the image. 
@@ -22,7 +22,7 @@
 >RUN sh -c 'touch app.jar' 
 >ENTRYPOINT ["java","-jar”,”app.jar"]
 
-###maven plugin
+maven plugin
 >>https://dmp.fabric8.io/
 >```
 >io.fabric8 docker-maven-plugin 0.26.0 true true
