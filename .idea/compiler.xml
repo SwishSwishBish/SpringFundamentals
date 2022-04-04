@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="RabbitMQ" />
+        <module name="AOP" />
         <module name="Elasticsearch" />
         <module name="MongoRestAPI" />
         <module name="SwaggerDocumentation" />
