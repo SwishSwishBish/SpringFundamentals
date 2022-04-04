@@ -1,4 +1,5 @@
-#AOP Note
+AOP Note
+---
 
 To quickly summarize, AOP stands for aspect orientated programming. Essentially, it is a way for adding behavior to existing code without modifying that code.
 An aspect can be created in spring boot with help of annotations **@Aspect** annotation and registering with bean container with **@Component** annotation.
