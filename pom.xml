@@ -16,8 +16,7 @@
         <module>SwaggerDocumentation</module>
         <module>RabbitMQ</module>
         <module>Dockerization</module>
-        <module>AOP</module>
-        <module>AOP</module>
+        <module>AOP-SpringBoot</module>
 
     </modules>
 
