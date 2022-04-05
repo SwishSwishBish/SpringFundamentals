@@ -11,6 +11,7 @@
         <module name="AOP-SpringBoot" />
         <module name="Elasticsearch" />
         <module name="MongoRestAPI" />
+        <module name="GraphQL" />
         <module name="SwaggerDocumentation" />
         <module name="Dockerization" />
         <module name="PostgreSQL-JPA" />
@@ -41,6 +42,7 @@
       <module name="Elasticsearch" options="-parameters" />
       <module name="Elasticsearch-QueryDSL" options="-parameters" />
       <module name="ElasticsearchQueryDSL" options="-parameters" />
+      <module name="GraphQL" options="-parameters" />
       <module name="HelloWorld" options="-parameters" />
       <module name="MongoRestAPI" options="-parameters" />
       <module name="PostgreSQL-JPA" options="-parameters" />

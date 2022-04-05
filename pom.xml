@@ -17,6 +17,7 @@
         <module>RabbitMQ</module>
         <module>Dockerization</module>
         <module>AOP-SpringBoot</module>
+        <module>GraphQL</module>
 
     </modules>
 
