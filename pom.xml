@@ -18,6 +18,7 @@
         <module>Dockerization</module>
         <module>AOP-SpringBoot</module>
         <module>GraphQL</module>
+        <module>RedisCache</module>
 
     </modules>
 
