@@ -19,6 +19,7 @@
         <module>AOP-SpringBoot</module>
         <module>GraphQL</module>
         <module>RedisCache</module>
+        <module>WebSocket</module>
 
     </modules>
 

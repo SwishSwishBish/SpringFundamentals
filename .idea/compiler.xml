@@ -17,6 +17,7 @@
         <module name="Dockerization" />
         <module name="PostgreSQL-JPA" />
         <module name="HelloWorld" />
+        <module name="WebSocket" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -50,6 +51,7 @@
       <module name="RabbitMQ" options="-parameters" />
       <module name="RedisCache" options="-parameters" />
       <module name="SwaggerDocumentation" options="-parameters" />
+      <module name="WebSocket" options="-parameters" />
     </option>
   </component>
 </project>
