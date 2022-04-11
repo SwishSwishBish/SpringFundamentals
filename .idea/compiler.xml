@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="RabbitMQ" />
         <module name="AOP-SpringBoot" />
+        <module name="Pagination" />
         <module name="RedisCache" />
         <module name="Elasticsearch" />
         <module name="MongoRestAPI" />
@@ -47,6 +48,7 @@
       <module name="GraphQL" options="-parameters" />
       <module name="HelloWorld" options="-parameters" />
       <module name="MongoRestAPI" options="-parameters" />
+      <module name="Pagination" options="-parameters" />
       <module name="PostgreSQL-JPA" options="-parameters" />
       <module name="RabbitMQ" options="-parameters" />
       <module name="RedisCache" options="-parameters" />
