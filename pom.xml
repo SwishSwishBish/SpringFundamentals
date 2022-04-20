@@ -21,6 +21,7 @@
         <module>RedisCache</module>
         <module>WebSocket</module>
         <module>Pagination</module>
+        <module>EventDriven</module>
 
     </modules>
 
