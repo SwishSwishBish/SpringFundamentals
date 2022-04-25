@@ -19,6 +19,7 @@
         <module name="WebSocket" />
         <module name="RabbitMQ" />
         <module name="Pagination" />
+        <module name="MongoGridFS" />
         <module name="Elasticsearch" />
         <module name="SpringMongoRestAPI" />
         <module name="SwaggerDocumentation" />
@@ -51,6 +52,7 @@
       <module name="EventDriven" options="-parameters" />
       <module name="GraphQL" options="-parameters" />
       <module name="HelloWorld" options="-parameters" />
+      <module name="MongoGridFS" options="-parameters" />
       <module name="MongoRestAPI" options="-parameters" />
       <module name="Pagination" options="-parameters" />
       <module name="PostgreSQL-JPA" options="-parameters" />
