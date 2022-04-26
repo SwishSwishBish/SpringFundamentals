@@ -23,6 +23,7 @@
         <module>Pagination</module>
         <module>EventDriven</module>
         <module>MongoGridFS</module>
+        <module>Kafka</module>
 
     </modules>
 
