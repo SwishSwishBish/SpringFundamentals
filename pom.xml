@@ -24,6 +24,7 @@
         <module>EventDriven</module>
         <module>MongoGridFS</module>
         <module>Kafka</module>
+        <module>Flyway</module>
 
     </modules>
 

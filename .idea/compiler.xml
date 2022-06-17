@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="AOP-SpringBoot" />
+        <module name="Flyway" />
         <module name="RedisCache" />
         <module name="MongoRestAPI" />
         <module name="GraphQL" />
@@ -51,6 +52,7 @@
       <module name="Elasticsearch-QueryDSL" options="-parameters" />
       <module name="ElasticsearchQueryDSL" options="-parameters" />
       <module name="EventDriven" options="-parameters" />
+      <module name="Flyway" options="-parameters" />
       <module name="GraphQL" options="-parameters" />
       <module name="HelloWorld" options="-parameters" />
       <module name="Kafka" options="-parameters" />
