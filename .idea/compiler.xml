@@ -22,6 +22,7 @@
         <module name="RabbitMQ" />
         <module name="Pagination" />
         <module name="MongoGridFS" />
+        <module name="Versioning" />
         <module name="Elasticsearch" />
         <module name="SpringMongoRestAPI" />
         <module name="SwaggerDocumentation" />
@@ -64,6 +65,7 @@
       <module name="RedisCache" options="-parameters" />
       <module name="SpringMongoRestAPI" options="-parameters" />
       <module name="SwaggerDocumentation" options="-parameters" />
+      <module name="Versioning" options="-parameters" />
       <module name="WebSocket" options="-parameters" />
       <module name="dockerization" options="-parameters" />
     </option>

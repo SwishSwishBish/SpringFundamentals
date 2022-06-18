@@ -25,6 +25,7 @@
         <module>MongoGridFS</module>
         <module>Kafka</module>
         <module>Flyway</module>
+        <module>Versioning</module>
 
     </modules>
 
