@@ -13,6 +13,7 @@
         <module name="MongoRestAPI" />
         <module name="GraphQL" />
         <module name="Kafka" />
+        <module name="Hazelcast-L2Cache" />
         <module name="Dockerization" />
         <module name="dockerization" />
         <module name="EventDriven" />
@@ -38,6 +39,7 @@
       <module name="Dockerizationcop" target="13" />
       <module name="Elasticsearch-QueryDSL" target="1.8" />
       <module name="ElasticsearchQueryDSL" target="17" />
+      <module name="Hazelcast" target="13" />
       <module name="SpringIoC" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -55,6 +57,8 @@
       <module name="EventDriven" options="-parameters" />
       <module name="Flyway" options="-parameters" />
       <module name="GraphQL" options="-parameters" />
+      <module name="Hazelcast" options="-parameters" />
+      <module name="Hazelcast-L2Cache" options="-parameters" />
       <module name="HelloWorld" options="-parameters" />
       <module name="Kafka" options="-parameters" />
       <module name="MongoGridFS" options="-parameters" />

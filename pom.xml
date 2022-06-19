@@ -26,6 +26,7 @@
         <module>Kafka</module>
         <module>Flyway</module>
         <module>Versioning</module>
+        <module>Hazelcast-L2Cache</module>
 
     </modules>
 

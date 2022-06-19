@@ -1,0 +1,20 @@
+spring:
+  jackson:
+    serialization:
+      FAIL_ON_EMPTY_BEANS: false
+  datasource:
+    url: jdbc:postgresql://localhost:5432/hazeldb
+    username: postgres
+    password: root
+  jpa:
+    database: postgresql
+    hibernate:
+      ddl-auto: update
+      show_sql: true
+    properties:
+      hibernate:
+        cache:
+          use_second_level_cache: true
+          use_query_cache: true
+          region.factory_class: org.hibernate.cache.jcache.JCacheRegionFactory
+          javax.cache.provider: com.hazelcast.cache.HazelcastCachingProvider
